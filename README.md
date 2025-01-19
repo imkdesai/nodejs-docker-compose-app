@@ -79,7 +79,7 @@ nodejs-docker-compose-app/
 │   └── static/
 │       ├── css/
 │       └── js/
-└── db-data/ (excluded by .gitignore)
+└── db-data/
 ```
 
 ---
